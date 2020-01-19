@@ -66,4 +66,43 @@ p {
 }
 
 
+/* Animation */
+.bolc1 {
+    animation-name: blocc1;
+    animation-duration: 1s;
+    position: relative;
 
+}
+
+.bolc2 {
+    animation-name: blocc2;
+    animation-duration: 1s;
+    position: relative;
+}
+.bolc3 {
+    animation-name: blocc3;
+    animation-duration: 1s;
+    position: relative;
+
+}
+@keyframes blocc1 {
+    0% {left: -500px;}
+    100% {left: 0px;}
+}
+
+@keyframes blocc2 {
+    0% {bottom: -500px;}
+    100% {bottom: 0px;}
+}
+
+
+@keyframes blocc3 {
+    0% {right: -500px;}
+    100% {right: 0px;}
+}
+
+.bolc1:hover,.bolc2:hover,.bolc3:hover {
+    border: 10px solid gold;
+    height: 280px;
+
+}
