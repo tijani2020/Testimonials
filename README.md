@@ -1,1 +1,1 @@
-# Secondeapp
+This is my first project after two months of learning , i used HTML and CSS to build this simple project , in my futur projects i will add some basic javascript in order to add more interactivity to the website .
