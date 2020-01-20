@@ -35,10 +35,12 @@ body {
     margin: 5px;
     color: black;
     padding-top: 5px;
-    padding-bottom: 5px;
-    border-radius: 25px; 
+    padding-bottom: 15px;
+    border-radius: 25px;
     padding-bottom: 20px;
-   border: 10px solid transparent;
+    border: 10px solid transparent;
+   
+    
 }
 
 h1 {
@@ -48,6 +50,7 @@ h1 {
 
 .Testmonials div img {
     width: 150px;
+    
 }
 p {
     font-family: 'Marck Script', cursive;
@@ -57,9 +60,11 @@ p {
 
 #star1 , #star2 , #star3 {
     height: 10px;
-    width: 100%;
+    width: 120px;
     margin: 0px;
     padding: 0px;
+    margin-left: 80px;
+
 }
 
 #star1 img , #star2 img , #star3 img {
@@ -104,6 +109,6 @@ p {
 
 .bolc1:hover,.bolc2:hover,.bolc3:hover {
     border-color: gold;
-   
+    
 
 }
