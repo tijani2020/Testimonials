@@ -38,6 +38,7 @@ body {
     padding-bottom: 5px;
     border-radius: 25px; 
     padding-bottom: 20px;
+   border: 10px solid transparent;
 }
 
 h1 {
@@ -102,7 +103,7 @@ p {
 }
 
 .bolc1:hover,.bolc2:hover,.bolc3:hover {
-    border: 10px solid gold;
-    height: 280px;
+    border-color: gold;
+   
 
 }
